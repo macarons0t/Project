@@ -34,4 +34,10 @@ I created new_contributors.yml file and changed the name, issue-message and pr-m
 
 <img width="1219" alt="Screenshot 2022-12-08 at 1 39 55 AM" src="https://user-images.githubusercontent.com/80460831/206254238-2faded9e-b093-4b1c-9754-15dbe557f517.png">
 
+### 3.3 Testing Automated Workflow
+New users to my Project Repo forks the Repo and creates a pull request. 
 
+<img width="797" alt="Screenshot 2022-12-08 at 2 11 02 AM" src="https://user-images.githubusercontent.com/80460831/206265246-ec552145-b3ab-42a6-a578-b225aabd48d2.png">
+
+After the Pull Request is made, GitHub-Actions triggered an automated workflow which greets the user.
+<img width="813" alt="Screenshot 2022-12-08 at 2 26 42 AM" src="https://user-images.githubusercontent.com/80460831/206265454-3a3ef1c8-ea69-477c-9bcf-745c97b1dc90.png">
