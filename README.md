@@ -34,4 +34,7 @@ I created new_contributors.yml file and changed the name, issue-message and pr-m
 
 <img width="1219" alt="Screenshot 2022-12-08 at 1 39 55 AM" src="https://user-images.githubusercontent.com/80460831/206254238-2faded9e-b093-4b1c-9754-15dbe557f517.png">
 
+### 3.3 New Collaborators
+Testing the Pull Request Workflow when new users to the Repo first create their pull request. 
+
 
