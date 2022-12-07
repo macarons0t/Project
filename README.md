@@ -35,7 +35,7 @@ I created new_contributors.yml file and changed the name, issue-message and pr-m
 <img width="1219" alt="Screenshot 2022-12-08 at 1 39 55 AM" src="https://user-images.githubusercontent.com/80460831/206254238-2faded9e-b093-4b1c-9754-15dbe557f517.png">
 
 ### 3.3 Testing Automated Workflow
-New users to my Project Repo forks the Repo and creates a pull request. 
+Testing the Pull Request Workflow when new users to the Project Repo fork the Repo and create pull requests. 
 
 <img width="797" alt="Screenshot 2022-12-08 at 2 11 02 AM" src="https://user-images.githubusercontent.com/80460831/206265246-ec552145-b3ab-42a6-a578-b225aabd48d2.png">
 
