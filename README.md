@@ -29,11 +29,9 @@ To automate pull requests and issues for new contributors, select the configurat
 
 <img width="961" alt="Screenshot 2022-12-08 at 1 06 31 AM" src="https://user-images.githubusercontent.com/80460831/206244433-0d1761bc-3791-46fd-8273-2fb978ccf42c.png">
 
-### 3.2 Create yml file
-I created new_contributors.yml file and changed the issue-message and pr-message. 
+### 3.2 New yml file
+I created new_contributors.yml file and changed the name, issue-message and pr-message. 
 
-<img width="791" alt="Screenshot 2022-12-08 at 1 24 04 AM" src="https://user-images.githubusercontent.com/80460831/206248093-54bc16f6-41c6-4110-b9e5-7fcfb5b4ec3f.png">
-
-<img width="750" alt="Screenshot 2022-12-08 at 1 25 53 AM" src="https://user-images.githubusercontent.com/80460831/206248505-9ece9912-68e5-47ca-98ea-22d885b15ddd.png">
+<img width="1219" alt="Screenshot 2022-12-08 at 1 39 55 AM" src="https://user-images.githubusercontent.com/80460831/206254238-2faded9e-b093-4b1c-9754-15dbe557f517.png">
 
 
