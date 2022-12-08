@@ -97,3 +97,14 @@ Testing the push commit workflow when users push commits to the Repository.
 Create an account with Docker Hub and build a Docker image for the frontend application. 
 
 ### 6.2 Create Dockerfile in VS Code and push commits to GitHub Repo
+
+### 6.3 Creating new workflow with Docker Image
+Clicking on the Docker Image Workflow, I used the template (i.e. mr-smithers-excellent) in the Docker Build and Push Action Page to push the Docker Image to the Docker Hub Registy. 
+
+<img width="1058" alt="Screenshot 2022-12-08 at 7 19 24 PM" src="https://user-images.githubusercontent.com/80460831/206433942-b8eeaf2d-1861-4a10-83aa-d614dc937264.png">
+
+### 6.4 Setting the Secret Variables
+I set the Secret Variables using the details from Docker Hub:
+
+<img width="679" alt="Screenshot 2022-12-08 at 7 31 59 PM" src="https://user-images.githubusercontent.com/80460831/206436192-42c8d8d8-9182-4dc7-a72e-a2791f9e0096.png">
+
