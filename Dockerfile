@@ -1,4 +1,4 @@
-FROM alphine
+FROM alpine
 LABEL maintainer = "arisaot96@gmail.com"
 EXPOSE 8080
 RUN apk update
