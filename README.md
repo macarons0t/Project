@@ -71,3 +71,21 @@ Aim: Triggering an action in GitHub when there is a new commit or pull request i
 First, I launched BotFather on Telegram that will help me to create and manage Telegram Bots. Typed "/start" and "/newbot" when prompted. I created my new bot, "macarons0t_bot".
 
 <img width="609" alt="Screenshot 2022-12-08 at 3 01 08 PM" src="https://user-images.githubusercontent.com/80460831/206380746-3a31cc7c-6ec5-42e3-9df8-8c05ba890284.png">
+
+### 4.2 Setting up the Secret Variables
+
+I typed the following in my browser and replaced the bot token key with a unique one - https://api.telegram.org/botTOKEN/getUpdates. The browser returned me a JSON response with the unique chat id. I would then update the Secret Variables as shown:
+
+<img width="769" alt="Screenshot 2022-12-08 at 4 34 15 PM" src="https://user-images.githubusercontent.com/80460831/206398079-af67070b-e3d3-429b-859e-795d1a0284de.png">
+
+I created a tg_notifier.yml file that would enable GitHub Action for sending a Telegram notification message when there is a pull request or push commit by a user in the GitHub Repository.
+
+<img width="1076" alt="Screenshot 2022-12-08 at 4 47 26 PM" src="https://user-images.githubusercontent.com/80460831/206400717-fab23d8c-dcec-4db3-8f62-e877bbe07c77.png">
+
+### 4.3 Testing Automated Workflow
+Testing the push commit workflow when users push commits to the Repository. 
+
+<img width="705" alt="Screenshot 2022-12-08 at 4 42 32 PM" src="https://user-images.githubusercontent.com/80460831/206399875-30062616-de01-4755-ba36-a93ea45f98d3.png">
+<img width="705" alt="Screenshot 2022-12-08 at 4 42 42 PM" src="https://user-images.githubusercontent.com/80460831/206399885-f968b0a2-1600-498b-9f11-0c4819c0dab7.png">
+
+
