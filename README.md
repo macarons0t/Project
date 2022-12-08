@@ -2,8 +2,8 @@
 
 ## Links
 * [Cloning GitHub Repository](https://github.com/MrGeislinger/flatiron-school-data-science-curriculum-resources/tree/main/Git/Tools)
-* [Discord Channel] (https://discord.com)
-* [Bot on GitHub Actions] (https://github.com/PhantomInsights/actions-bot)
+* [Discord Channel](https://discord.com)
+* [Bot on GitHub Actions](https://github.com/PhantomInsights/actions-bot)
 
 ## 1. Cloning NUSMoney Project
 
