@@ -1,5 +1,5 @@
 name: telegram message
-on: [push]
+on: [push, pull_request]
 jobs:
 
   build:
@@ -12,4 +12,4 @@ jobs:
         to: ${{ secrets.TELEGRAM_TO }}
         token: ${{ secrets.TELEGRAM_TOKEN }}
         message: |
-          There is a ${{ github.event_name }} commit in $${{ github.repository }}.
+          There is a ${{ github.event_name }} commit in ${{ github.repository }} by ${{ github.actor }}.
