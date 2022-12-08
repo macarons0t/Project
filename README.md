@@ -57,4 +57,9 @@ Webhooks? An easy way to post messages from apps and websites like GitHub into D
 
 Under Settings, locate the Webhooks option and adjust the following:
 
-<img width="668" alt="Screenshot 2022-12-08 at 1 40 25 PM" src="https://user-images.githubusercontent.com/80460831/206366708-760d743f-6436-4e01-930a-615dbbafd507.png">
+<img width="678" alt="Screenshot 2022-12-08 at 1 51 33 PM" src="https://user-images.githubusercontent.com/80460831/206368406-f6aef146-6546-49a3-9f3b-aa5f18fcb28f.png">
+
+### 4.2 Testing the Discord Webhook
+To test whether the Webhook worked successfully, I created an issue in my Project Repo.
+
+<img width="708" alt="Screenshot 2022-12-08 at 1 58 26 PM" src="https://user-images.githubusercontent.com/80460831/206369099-e4920688-214c-4f7f-9c48-37e2eb716091.png">
