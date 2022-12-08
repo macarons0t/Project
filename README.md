@@ -85,7 +85,5 @@ I created a tg_notifier.yml file that would enable GitHub Action for sending a T
 ### 4.3 Testing Automated Workflow
 Testing the push commit workflow when users push commits to the Repository. 
 
-<img width="705" alt="Screenshot 2022-12-08 at 4 42 32 PM" src="https://user-images.githubusercontent.com/80460831/206399875-30062616-de01-4755-ba36-a93ea45f98d3.png">
-<img width="705" alt="Screenshot 2022-12-08 at 4 42 42 PM" src="https://user-images.githubusercontent.com/80460831/206399885-f968b0a2-1600-498b-9f11-0c4819c0dab7.png">
-
-
+<img width="705" alt="206399875-30062616-de01-4755-ba36-a93ea45f98d3" src="https://user-images.githubusercontent.com/80460831/206402630-4df871d1-a3a6-4cf2-b3a5-83e80aa448e4.png">
+<img width="705" alt="206399885-f968b0a2-1600-498b-9f11-0c4819c0dab7" src="https://user-images.githubusercontent.com/80460831/206402642-997fe022-58e5-489c-a7d1-e7d17174bd9e.png">
