@@ -5,6 +5,7 @@
 * [Discord Channel](https://discord.com)
 * [Bot on GitHub Actions](https://github.com/PhantomInsights/actions-bot)
 * [Telegram Channel](https://telegram.org)
+* [Telegram for GitHub Actions](https://github.com/marketplace/actions/telegram-notify)
 
 ## 1. Cloning NUSMoney Project
 
