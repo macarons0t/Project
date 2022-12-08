@@ -4,6 +4,7 @@
 * [Cloning GitHub Repository](https://github.com/MrGeislinger/flatiron-school-data-science-curriculum-resources/tree/main/Git/Tools)
 * [Discord Channel](https://discord.com)
 * [Bot on GitHub Actions](https://github.com/PhantomInsights/actions-bot)
+* [Telegram Channel](https://telegram.org)
 
 ## 1. Cloning NUSMoney Project
 
@@ -45,13 +46,12 @@ After the Pull Request is made, GitHub-Actions triggered an automated workflow w
 <img width="813" alt="Screenshot 2022-12-08 at 2 26 42 AM" src="https://user-images.githubusercontent.com/80460831/206265454-3a3ef1c8-ea69-477c-9bcf-745c97b1dc90.png">
 
 ## 4. Connecting to Discord
-Aim: Triggering an action in GitHub
-When there is a new commit or pull request in my Project Repository, an action in GitHub for Discord will notify me. 
+Aim: Triggering an action in GitHub when there is a new commit or pull request in my Project Repository, an action in GitHub for Discord will notify me. 
 
 ### 4.1 Discord Webhook
 First, I created a new server on my Discord channel and copied the Webhook URL (private). 
 
-Webhooks? An easy way to post messages from apps and websites like GitHub into Discord. A POST request will be sent to the Discord Webhook URL when events happen in my GitHub Project Repo. This can users/collaborators in my Discord channel be informed about updates or releases to my GitHub Project Repo!
+Webhooks? An easy way to post messages from apps and websites like GitHub into Discord. A POST request will be sent to the Discord Webhook URL when events happen in my GitHub Project Repo. This can users/collaborators in my Discord channel be informed about updates or releases to my GitHub Project Repo! The drawback is that the webhook has no authentication strategy, so my channel may be spammed if it falls into the wrong hands!
 
 <img width="929" alt="Screenshot 2022-12-08 at 1 07 52 PM" src="https://user-images.githubusercontent.com/80460831/206361752-9a94bee4-b4e8-4963-9c04-23585d6c6f72.png">
 
@@ -63,3 +63,11 @@ Under Settings, locate the Webhooks option and adjust the following:
 To test whether the Webhook worked successfully, I created an issue in my Project Repo.
 
 <img width="708" alt="Screenshot 2022-12-08 at 1 58 26 PM" src="https://user-images.githubusercontent.com/80460831/206369099-e4920688-214c-4f7f-9c48-37e2eb716091.png">
+
+## 5. Connecting to Telegram
+Aim: Triggering an action in GitHub when there is a new commit or pull request in my Project Repository, an action in GitHub for Telegram will notify me. 
+
+### 4.1 Telegram Bot
+First, I launched BotFather on Telegram that will help me to create and manage Telegram Bots. Typed "/start" and "/newbot" when prompted. I created my new bot, "macarons0t_bot".
+
+<img width="609" alt="Screenshot 2022-12-08 at 3 01 08 PM" src="https://user-images.githubusercontent.com/80460831/206380746-3a31cc7c-6ec5-42e3-9df8-8c05ba890284.png">
