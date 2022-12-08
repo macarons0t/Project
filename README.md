@@ -51,13 +51,10 @@ When there is a new commit or pull request in my Project Repository, an action i
 ### 4.1 Discord Webhook
 First, I created a new server on my Discord channel and copied the Webhook URL (private). 
 
-Webhooks? An easy way to post messages from other apps and websites into Discord. Anyone can use it to create spam in your server and hence needs to be stored securely. 
+Webhooks? An easy way to post messages from apps and websites like GitHub into Discord. A POST request will be sent to the Discord Webhook URL when events happen in my GitHub Project Repo. This can users/collaborators in my Discord channel be informed about updates or releases to my GitHub Project Repo!
 
 <img width="929" alt="Screenshot 2022-12-08 at 1 07 52 PM" src="https://user-images.githubusercontent.com/80460831/206361752-9a94bee4-b4e8-4963-9c04-23585d6c6f72.png">
 
-Copy and paste the Webhook URL in the Secrets option under the Settings tab in the GitHub Repo. 
+Under Settings, locate the Webhooks option and adjust the following:
 
-<img width="796" alt="Screenshot 2022-12-08 at 1 17 11 PM" src="https://user-images.githubusercontent.com/80460831/206363010-c31ddd7a-f6e3-471d-8c0a-ea0da2b2c38e.png">
-
-
-
+<img width="668" alt="Screenshot 2022-12-08 at 1 40 25 PM" src="https://user-images.githubusercontent.com/80460831/206366708-760d743f-6436-4e01-930a-615dbbafd507.png">
