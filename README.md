@@ -6,6 +6,8 @@
 * [Bot on GitHub Actions](https://github.com/PhantomInsights/actions-bot)
 * [Telegram Channel](https://telegram.org)
 * [Telegram for GitHub Actions](https://github.com/marketplace/actions/telegram-notify)
+* [Docker-Hello](https://github.com/macarons0t/docker-hello)
+* [Docker Hub](https://hub.docker.com)
 
 ## 1. Cloning NUSMoney Project
 
@@ -88,3 +90,10 @@ Testing the push commit workflow when users push commits to the Repository.
 
 <img width="705" alt="206399875-30062616-de01-4755-ba36-a93ea45f98d3" src="https://user-images.githubusercontent.com/80460831/206402630-4df871d1-a3a6-4cf2-b3a5-83e80aa448e4.png">
 <img width="705" alt="206399885-f968b0a2-1600-498b-9f11-0c4819c0dab7" src="https://user-images.githubusercontent.com/80460831/206402642-997fe022-58e5-489c-a7d1-e7d17174bd9e.png">
+
+## 6 Building a Docker Image of my files in the Repo and publish to a Repo
+
+### 6.1 Create an account with Docker Hub
+Create an account with Docker Hub and build a Docker image for the frontend application. 
+
+### 6.2 Create Dockerfile in VS Code and push commits to GitHub Repo
