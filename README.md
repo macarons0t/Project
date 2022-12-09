@@ -54,7 +54,7 @@ Aim: Triggering an action in GitHub when there is a new commit or pull request i
 ### 4.1 Discord Webhook
 First, I created a new server on my Discord channel and copied the Webhook URL (private). 
 
-Webhooks? An easy way to post messages from apps and websites like GitHub into Discord. A POST request will be sent to the Discord Webhook URL when events happen in my GitHub Project Repo. This can users/collaborators in my Discord channel be informed about updates or releases to my GitHub Project Repo! The drawback is that the webhook has no authentication strategy, so my channel may be spammed if it falls into the wrong hands!
+Webhooks? An easy way to post messages from apps and websites like GitHub into Discord. A request will be sent to the Discord Webhook URL when events happen in my GitHub Project Repo. This can users/collaborators in my Discord channel be informed about updates or releases to my GitHub Project Repo! The drawback is that the webhook has no authentication strategy, so my channel may be spammed if it falls into the wrong hands!
 
 <img width="929" alt="Screenshot 2022-12-08 at 1 07 52 PM" src="https://user-images.githubusercontent.com/80460831/206361752-9a94bee4-b4e8-4963-9c04-23585d6c6f72.png">
 
