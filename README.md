@@ -12,6 +12,7 @@
 ## 1. Cloning NUSMoney Project
 
 ### 1.1 Create a local copy of the git_clone.sh file
+The script will take a git repo and clone it to my local machine but under my own repo in GitHub.
 
 ### 1.2 Copy the GitHub Repository
 Create a copy of the Repository on your machine and push the cloned one to a new Repository. Follow the prompts in the Terminal closely. 
@@ -114,4 +115,5 @@ After several attempts, the image was pushed to the Docker Hub. Some of the erro
 
 <img width="592" alt="Screenshot 2022-12-08 at 8 29 57 PM" src="https://user-images.githubusercontent.com/80460831/206446901-8ee9eeaf-471c-4586-b22d-ef426b04ca16.png">
 
-## 7 Trying to deploy to GCP when pushing commit to GitHub Repo...
+Next possible steps:
+- Try to run container wrt docker-hello documentation
