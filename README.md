@@ -113,3 +113,5 @@ After several attempts, the image was pushed to the Docker Hub. Some of the erro
 <img width="708" alt="Screenshot 2022-12-09 at 3 28 05 PM" src="https://user-images.githubusercontent.com/80460831/206648268-0f3839af-5dad-4f05-acc8-bf1f7404d4b7.png">
 
 <img width="592" alt="Screenshot 2022-12-08 at 8 29 57 PM" src="https://user-images.githubusercontent.com/80460831/206446901-8ee9eeaf-471c-4586-b22d-ef426b04ca16.png">
+
+## 7 Trying to deploy to GCP when pushing commit to GitHub Repo...
