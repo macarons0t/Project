@@ -16,7 +16,6 @@
 ### 1.2 Copy the GitHub Repository
 Create a copy of the Repository on your machine and push the cloned one to a new Repository. Follow the prompts in the Terminal closely. 
 
-
 ### 1.3 Double-check files in the directory
 Ensured that a local copy of the cloned project is in the relevant project folder. Pulled the latest changes from my GitHub Repository into VS Code, with the README.md file updated.
 
@@ -109,6 +108,8 @@ I set the Secret Variables using the details from Docker Hub:
 <img width="679" alt="Screenshot 2022-12-08 at 7 31 59 PM" src="https://user-images.githubusercontent.com/80460831/206436192-42c8d8d8-9182-4dc7-a72e-a2791f9e0096.png">
 
 ### 6.5 Creating Docker File and Pushing the image to my Docker Hub
-After several attempts, the image was pushed to the Docker Hub. 
+After several attempts, the image was pushed to the Docker Hub. Some of the errors I faced initially were wrong login details and edits to my Dockerfile.
+
+<img width="708" alt="Screenshot 2022-12-09 at 3 28 05 PM" src="https://user-images.githubusercontent.com/80460831/206648268-0f3839af-5dad-4f05-acc8-bf1f7404d4b7.png">
 
 <img width="592" alt="Screenshot 2022-12-08 at 8 29 57 PM" src="https://user-images.githubusercontent.com/80460831/206446901-8ee9eeaf-471c-4586-b22d-ef426b04ca16.png">
