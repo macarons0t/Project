@@ -109,7 +109,7 @@ I set the Secret Variables using the details from Docker Hub:
 <img width="679" alt="Screenshot 2022-12-08 at 7 31 59 PM" src="https://user-images.githubusercontent.com/80460831/206436192-42c8d8d8-9182-4dc7-a72e-a2791f9e0096.png">
 
 ### 6.5 Creating Docker File and Pushing the image to my Docker Hub
-After several attempts, the image was pushed to the Docker Hub. An example of issue I faced initially were wrong login details etc.
+After several attempts, the image was pushed to the Docker Hub. An example of an issue I faced initially were wrong login details etc.
 
 <img width="708" alt="Screenshot 2022-12-09 at 3 28 05 PM" src="https://user-images.githubusercontent.com/80460831/206648268-0f3839af-5dad-4f05-acc8-bf1f7404d4b7.png">
 
